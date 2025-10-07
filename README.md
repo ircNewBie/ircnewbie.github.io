@@ -5,12 +5,15 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Backend+Developer.;A+former+Software+QA/+Tester.;I+do+have+experience+in;░░░░JavaScript░░░░++;░░░░░░Python░░░░░░++;░░░░░MQL4/MQL5░░░░░++;░░░andFewOthersMore░░░++;░░░░░░░░░░░░░░░░░░+;" /></a>
 </p>
 <p>
-  I was a former Manual Software QA/Tester, became a Backend / Software Developer. 
+  I was a former Manual Software QA/Tester, and became a Backend / Software Developer. 
 </p>
 <p>
-   I love to explore new learning horizons especially in areas of:
+   I love to explore new learning horizons, especially in areas of:
+   <li>
+          AI Agents & Workflow Automations.
+  </li>
   <li>
-          Data Science, Big Data & Analytics.
+          Data Science, Big Data & Analytics, AI Agents & Workflow Automation.
   </li>
   <li>
           Cloud Architecture & Deployment.
