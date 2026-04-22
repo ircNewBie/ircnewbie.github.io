@@ -59,6 +59,14 @@ section {
     border-radius: 2px;
 }
 
+.projects-note {
+    text-align: center;
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
 .highlight {
     color: var(--primary-color);
 }
@@ -324,11 +332,41 @@ nav {
 .project-img {
     height: 200px;
     background-color: var(--secondary-color);
-    background-image: linear-gradient(45deg, #1e293b 25%, transparent 25%), 
-                      linear-gradient(-45deg, #1e293b 25%, transparent 25%), 
-                      linear-gradient(45deg, transparent 75%, #1e293b 75%), 
-                      linear-gradient(-45deg, transparent 75%, #1e293b 75%);
-    background-size: 20px 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Individual Project Gradients & Images */
+.project-glyco { 
+    background: url('../assets/glycosense-new-logo.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff;
+}
+.project-sari { 
+    background: url('../assets/sari-sari-logo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff;
+}
+.project-secretary { 
+    background: url('../assets/mysecretary-hero.png');
+    background-size: cover;
+    background-position: center;
+}
+.project-tuna { 
+    background: url('../assets/tunaflow-icon.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #f8fafc;
+}
+.project-techcare { 
+    background: url('../assets/techcare-new-logo.png');
+    background-size: cover;
+    background-position: center;
 }
 
 .project-info {
@@ -343,9 +381,24 @@ nav {
 .project-info p {
     color: var(--text-muted);
     font-size: 0.95rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     height: 4.5rem;
     overflow: hidden;
+}
+
+.project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.project-tags span {
+    font-size: 0.75rem;
+    background-color: var(--secondary-color);
+    padding: 0.2rem 0.6rem;
+    border-radius: 3px;
+    color: var(--primary-color);
 }
 
 .project-links {
@@ -361,6 +414,14 @@ nav {
 
 .project-links a:hover {
     text-decoration: underline;
+}
+
+.private-link {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+    border-left: 2px solid var(--secondary-color);
+    padding-left: 0.5rem;
 }
 
 /* Contact Section */

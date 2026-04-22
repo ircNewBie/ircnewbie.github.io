@@ -1,24 +1,28 @@
-# Portfolio Website
+# Maximiano 'Bong' Bungalan Jr.
+### Full-Stack Developer (Agentic Workflow) | Backend Specialist & AI Integrator
 
-This repository contains the source code for my personal portfolio website, hosted on GitHub Pages.
+I am a results-driven Web Programmer specializing in an **Agentic development workflow**. I leverage advanced AI agents to build and deploy functional, data-driven applications—moving from initial concept to production-ready products.
 
-## Tech Stack
-- **HTML5**
-- **CSS3** (Vanilla CSS)
-- **JavaScript** (Vanilla JS)
+## 🚀 [View My Full Portfolio](https://ircnewbie.github.io/ircNewBie/)
 
-## How to Update
-- **About Me / Skills:** Update the content directly in `index.html`.
-- **Experience:** Update the timeline section in `index.html`.
-- **Projects:** Add or modify project cards in the "Projects" section of `index.html`.
-- **Styling:** Modify `styles/style.css` for any layout or design changes.
+---
 
-## Deployment
-This website is hosted via GitHub Pages. Any changes pushed to the `main` branch will be automatically deployed.
+### 🛠️ Technical Expertise
+- **Backend:** Node.js (NestJS, Express), PHP (Laravel, CodeIgniter), Python (FastAPI)
+- **Specialties:** RESTful API Development, OAuth/JWT Authentication, 3rd-Party AI Integrations
+- **Frontend & Deployment:** PWA Development, Vercel, Render
+- **Development Approach:** Test-Driven Development (TDD), Modular Architecture, Agentic Orchestration
 
-### Setup Instructions
-1. Go to your repository settings on GitHub.
-2. Navigate to **Pages**.
-3. Under **Build and deployment**, ensure **Source** is set to "Deploy from a branch".
-4. Select the `main` branch and `/ (root)` folder.
-5. Save your settings.
+### 📂 Key Projects
+- **GlycoSense:** AI-driven Health SaaS (PWA) for biometric and nutrition tracking.
+- **Sari-Sari-Manager:** Localized POS and Inventory SaaS (PWA) with mobile barcode scanning.
+- **mySecretary:** AI meeting assistant for automated transcription and task extraction.
+- **TunaFlow:** Yield monitoring system for industrial manufacturing (PWA).
+- **TechCare.Dev⁺:** Freelancer-focused service booking and billing platform (PWA).
+
+### 📫 Contact Me
+- **Email:** [bbungalan@gmail.com](mailto:bbungalan@gmail.com)
+- **GitHub:** [github.com/ircNewBie](https://github.com/ircNewBie)
+
+---
+*I build solutions that solve specific business problems through scalable code and AI-driven automation.*
