@@ -3,7 +3,7 @@
 
 I am a results-driven Web Programmer specializing in an **Agentic development workflow**. I leverage advanced AI agents to build and deploy functional, data-driven applications—moving from initial concept to production-ready products.
 
-## 🚀 [View My Full Portfolio](https://ircnewbie.github.io/ircNewBie/)
+## 🚀 [View My Full Portfolio](https://ircnewbie.github.io)
 
 ---
 
