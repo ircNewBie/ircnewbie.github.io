@@ -1,4 +1,4 @@
-# Maximiano 'Bong' Bungalan Jr.
+# Bong Bungalan Jr.
 ### Full-Stack Developer (Agentic Workflow) | Backend Specialist & AI Integrator
 
 I am a results-driven Web Programmer specializing in an **Agentic development workflow**. I leverage advanced AI agents to build and deploy functional, data-driven applications—moving from initial concept to production-ready products.
