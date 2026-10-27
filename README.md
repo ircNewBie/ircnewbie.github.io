@@ -14,6 +14,8 @@ I am a results-driven Web Programmer specializing in an **Agentic development wo
 - **Development Approach:** Test-Driven Development (TDD), Modular Architecture, Agentic Orchestration
 
 ### 📂 Key Projects
+- **Before the Numbers (PH):** Preventative metabolic health & educational platform for Filipino families (Web App).
+- **Off-Grid Solar Calculator:** Engineering calculation suite & simulator for sizing off-grid solar systems (Web App).
 - **GlycoSense:** AI-driven Health SaaS (PWA) for biometric and nutrition tracking.
 - **Sari-Sari-Manager:** Localized POS and Inventory SaaS (PWA) with mobile barcode scanning.
 - **mySecretary:** AI meeting assistant for automated transcription and task extraction.

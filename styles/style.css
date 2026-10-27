@@ -505,6 +505,16 @@ nav {
 }
 
 /* Individual Project Gradients & Images */
+.project-beforenumbers { 
+    background: url('../assets/beforethenumbers-logo.png');
+    background-size: cover;
+    background-position: center;
+}
+.project-solarcalc { 
+    background: url('../assets/offgridsolarcalc-logo.webp');
+    background-size: cover;
+    background-position: center;
+}
 .project-glyco { 
     background: url('../assets/glycosense-new-logo.jpg');
     background-size: cover;
